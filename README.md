@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @vihahuynh
-- 👀 I’m interested in trekking, traveling, painting and reading books.
+**🌟 Hi there! I'm Nemo, your mischievous neighborhood Full Stack Developer! 🌟**
 
-<!---
-vihahuynh/vihahuynh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I build things that make life a little easier (or at least look nice on a screen!). 
+Sometimes they work on the first try (miracles do happen), but most of the time, I just debug until my tea 🍵 runs out. 
+
+Let’s turn bugs 🐞 into features ✅ and make the web a happier place together! 🚀
